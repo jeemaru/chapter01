@@ -35,6 +35,7 @@ public class Ex01 {
 		no2 = 922337203;
 		System.out.println(no2);*/
 		
+		
 		//변수가 여러개일떄 변수선언, 초기화
 		int var01; 
 		int var02; 
@@ -45,12 +46,20 @@ public class Ex01 {
 		var02 = 20;
 		var03 = 30;
 		
+		System.out.println(var01);
+		System.out.println(var02);
+		System.out.println(var03);
+		
 		//변수가 여러개일때 변수선언 + 초기화
 		int var04 = 10;
 		int var05 = 20;
 		int var06 = 30;
 		//int var04=10, var05=20, var=30;
 		System.out.println(var04);
+		System.out.println(var06);
+		System.out.println(var05);
+		
+		
 	}
 
 }
