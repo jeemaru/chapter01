@@ -12,8 +12,8 @@ public class Ex10 {
 		System.out.println("&& 연산자");
 		System.out.println(true && true); //true
 		System.out.println(true && false); //false
-		System.out.println(false && true); //false
-		System.out.println(false && false); //false 
+		//System.out.println(false && true); //false
+		//System.out.println(false && false); //false 
 		//<--해당코드에 경고뜨는이유: 이미 결과를 알기때문에 뒤에오는 계산은 필요없다고 인식하기떄문 
 		
 		System.out.println("응용");
@@ -22,8 +22,8 @@ public class Ex10 {
 		
 		//논리연산자 기본 '|||'
 		System.out.println("|| 연산자");
-		System.out.println(true || true); //true
-		System.out.println(true || false); //true
+		//System.out.println(true || true); //true
+		//System.out.println(true || false); //true
 		//해당식도 마친가지, 공식에따라 계산해볼 필요없음
 		System.out.println(false || true); //true
 		System.out.println(false || false); //false
