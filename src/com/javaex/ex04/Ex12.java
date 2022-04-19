@@ -36,7 +36,7 @@ public class Ex12 {
 		
 		
 		
-		//sc.close();
+		sc.close();
 		
 		
 	}
